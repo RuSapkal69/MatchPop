@@ -66,12 +66,43 @@
     opacity: 1;
   }
 
-  @keyframes float {
+  @keyframes float_works {
     0% { transform: translateY(0px); }
     50% { transform: translateY(-10px); }
     100% { transform: translateY(0px); }
   }
 
   .feature-icon svg {
-    animation: float 3s ease-in-out infinite;
+    animation: float_works 3s ease-in-out infinite;
+  }
+
+  .hover-effect {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .hover-effect:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  }
+
+  .icon-wrapper {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #ff6b6b, #ffa5a5);
+    transition: transform 0.3s ease;
+  }
+
+  .hover-effect:hover .icon-wrapper {
+    transform: scale(1.1);
+  }
+
+  .card-title {
+    color: #333;
+    font-weight: 600;
+  }
+
+  .card-text {
+    font-size: 0.95rem;
+    line-height: 1.6;
   }

@@ -1,4 +1,4 @@
-# TinDog Project
+# MatchPop Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
@@ -50,32 +50,8 @@ Meet new and interesting people nearby.
 Easy to use.
 So easy to use.
 
-Elite Clientele.
+Elite Clients.
 We have all the people, the greatest people.
 
 Guaranteed to work.
 Find the love of your life or your money back.
-
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
-Pebbles, New York
-
-A Plan for Every Person Needs
-Simple and affordable price plans for you and your dog.
-
-Chihuahua
-$0/mo
-5 Matches Per Day
-10 Messages Per Day
-Unlimited App Usage
-
-Labrador
-$15/mo
-Unlimited Matches
-Unlimited Messages
-Unlimited App Usage
-
-Mastiff
-$29/mo
-Pirority Listing
-Unlimited Matches & Messages
-Unlimited App Usage
